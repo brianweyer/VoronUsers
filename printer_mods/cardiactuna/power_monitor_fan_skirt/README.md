@@ -11,10 +11,10 @@ Designed for a **V2.4r2 350mm**, I've included the STEP file and the Fusion360 p
 - Power Monitor
   - <https://www.aliexpress.us/item/2255801081818196.html>
 
-## Installation
-
-> [!CAUTION] Disclaimer
+> [!IMPORTANT]
 > To install this mod, you will be working with the mains, **UNPLUG FIRST** as this can be/is dangerous, as is also stated in the Voron Assembly instructions. **USE CAUTION** I am not responsible for damage to yourself or your printer.
+
+## Installation
 
 1. **Disconnect/unplug your printer from the main power source.**
 2. First remove the old fan skirt + blanks. Save the M5 bolt, if you're installing skirts for the first time, please use the official Voron 2.4r2 bolt; `M5x10 BHCS`
