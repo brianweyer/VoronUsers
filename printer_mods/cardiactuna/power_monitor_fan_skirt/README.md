@@ -1,6 +1,7 @@
 # Power Monitor Fan Skirt Mod
 
-This mod was inspired by a mod by `leandromarceddu`, which you can find here: <https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/leandromarceddu/PowerSkirt>
+> [!NOTE]
+> This mod was inspired by a mod by `leandromarceddu`, which you can find here: <https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/leandromarceddu/PowerSkirt>
 
 This simple power monitor mount replaces the original skirt fan blanks and skirt fan assembly with a single peice version, intended to match aesthetics of the original.
 
