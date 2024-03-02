@@ -1,0 +1,14 @@
+---
+title: Power Monitor Fan Skirt
+description: This simple power monitor mount replaces the original skirt fan blanks and skirt fan assembly with a single peice version, intended to match aesthetics of the original.
+mod_version: 1
+discord_username: cardiactuna
+cad:
+  - STEP/power_monitor_fan_skirt.step
+  - STEP/power_monitor_fan_skirt.f360
+stl:
+  - STL/power_monitor_fan_skirt.stl
+images:
+  - Images/power_monitor_fan_skirt.jpg
+printer_compatibility:
+  - V2.4r2
